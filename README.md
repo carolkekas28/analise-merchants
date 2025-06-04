@@ -1,2 +1,1 @@
-# analise-merchants
-Desafio para vaga em FP&amp;A
+Esse desafio consiste em analisar um arquivo csv com mais de 50 mil linhas, onde estão algumas informações relevantes de lojas de uma plataforma de e-commerce. Utilizando Pandas, Matplotlib e Numpy, construí uma série de gráficos para ajudar com a análise desses dados.
