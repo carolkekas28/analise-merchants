@@ -1,1 +1,3 @@
-Esse desafio consiste em analisar um arquivo csv com mais de 50 mil linhas, onde estão algumas informações relevantes de lojas de uma plataforma de e-commerce. Utilizando Pandas, Matplotlib e Numpy, construí uma série de gráficos para ajudar com a análise desses dados.
+Esse repositório armazena a minha solução para um case de FP&A. Nele, precisei usar não apenas o meu pensamento analítico e raciocínio crítico, como também algumas bibliotecas de Python para visualização de dados, como Pandas e Matplotlib.
+
+Utilizei um Jupyter Notebook para reunir todas as informações relevantes que observei, e hospedei ele no Kaggle pelo seguinte link: https://www.kaggle.com/code/carolinacardoso28/an-lise-de-plataforma-de-e-commerce.
