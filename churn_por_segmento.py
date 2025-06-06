@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 
 # Carregar dados
-df = pd.read_csv('/kaggle/input/merchants/Lojas.csv', parse_dates=['month'])
+df = pd.read_csv('Lojas.csv', parse_dates=['month'])
 
 # Filtrar apenas os meses em que status == 'churn'
 df_churn = df[df['status'] == 'churn']
