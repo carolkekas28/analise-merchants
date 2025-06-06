@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 
 # Leitura dos arquivos
-df = pd.read_csv('/kaggle/input/merchants/Lojas.csv', parse_dates=['month'])
+df = pd.read_csv('Lojas.csv', parse_dates=['month'])
 df_ativos = df[df['status'] == 'ativo']
 
 contagem_mensal = (
